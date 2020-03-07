@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560421302 source:c:\users\messi\desktop\ÏÀÏÊÀ ÄÀÍÈËÀ\commivparv2.0\main.cpp
+	"mpi.h"
+	<iostream>
+	<cstdlib>
+
